@@ -1,0 +1,23 @@
+Some changes we made from the plan were, 
+1 - For MazeOfLearning, code is far more specific
+    written in the plan but the basic structure still holds
+       - added a question method that holds the question
+       - added important variable that stores image path, x y coords and such
+       - (itemInformation)
+       - added mazeCollisionDetection that is a return method, it returns true if the user can move
+         in a certain place and false if they can't
+2 - For GameOfTesting code is far more specific
+    written in the plan but the basic structure still holds
+       - added a question method that holds the question
+       - added important variable that stores image path, x y coords and such
+       - (bonesInformation)(trashInformation)
+       - added collisionDetection that is a return method, it returns true if the user can move
+         in a certain place and false if they can't
+       - added level() which holds the code that allows the user to move and interact
+       - level() items are adjusted due to the current userScore
+3 - We decided to just remove SplashScreen.java and put the information into IntroductionAnimation.java
+4 - Generally, everything is far more specific in the code than the plan. 
+    All variables and chunks of code are explained through comments in the .java files in greater detail
+5 - Decided that return method in leaderboard() in ProjectMain.java is really needed
+    since MazeOfLearning's mazeCollisionDetection and GameOfTesting's collisionDetection already
+    full fills return. Rather, leaderboard() looks at "scores.txt" its self and does things itself

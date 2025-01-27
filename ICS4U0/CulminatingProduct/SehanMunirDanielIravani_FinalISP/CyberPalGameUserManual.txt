@@ -1,0 +1,23 @@
+--------------------------------------------
+CyberPal User Manual
+--------------------------------------------
+{Suggested Age Group - 16-65+}
+____________________________________________
+Hello fellow user! 
+In order to play the game, please run the Jar file within the ExecutableJarFile folder.
+If that is not working, then please navigate to the "SehanMunirDanielIravani_ISPImprovedVersion" folder, and run Main.java
+This will allow you to access the game.
+
+After a short splash screen animation, you will be able to play the game.
+
+Main menu is your landing page, click on according sections to open up. By playing, you can learn more about cyber security, its importance and how AI will be the future. By playing, you are directly helping our database learn! 
+If you are an AI, this will hone your skills and allow you to be a better assistant at your job.
+
+In About and Credit, you will get further information about the program, the company, the game and the ideology.
+In Level One, you will learn some new things and have a friendly game as a warm up.
+In Level Two, you will get emails - it is meant to be competitive and harder, so learn and try your best.
+You may save your score, which will be added to the Leaderboard!
+
+The Leaderboard in reality is just a LOCAL database, meaning only you will have access to it and can update it.
+
+Enjoy your usage.
